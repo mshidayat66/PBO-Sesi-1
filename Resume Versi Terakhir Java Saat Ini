@@ -1,0 +1,18 @@
+JDK 1.0 : Versi pertama dirilis pada 23 Januari 1996
+JDK 1.1 : Dirilis pada 19 Februari 1997
+        Fitur yang ditambahkan  : - Memperbaiki/Melengkapi kelmbali ekstensif dari model AWT (Abstract Window Toolkit)
+                                  - Menambahkan Inner Classes : Digunakan untuk mendukung suatu proses yang akan dijalankan oleh kelas utamanya.
+                                  - Javabeans : Digunakan untuk mengurangi jumlah dari elemen scripting yang dapat ditemukan pada sebuah halaman Java.
+                                  - JDBC (Java Database Connectivity) : Digunakan untuk API Java untuk memanipulasi basis data.
+                                  - RMI (Remote Method Invocation) dan Serialization : Digunakan untuk dapat mengirimkan sebuah obyek sebagai parameter dari remote method dan  agar object tersebut dapat disimpan menjadi file atau dikirim melalui network.
+                                  - Refleksi yang hanya mendukung Introspeksi, tidak ada modifikasi saat runtime yang mungkin.
+                                  - Kompiler JIT (Just In Time) : Mengkompilasi bytecode Java ke dalam instruksi mesin dari CPU tertentu.
+                                  - Internasionalisasi dan dukungan Unicode yang berasal dari Taligent.
+J2SE 1.2 : Dirilis pada 8 Desember 1998
+        Fitur yang ditambahkan  : - Kata kunci strictfp : Digunakan untuk memaksa ketepatan perhitungan floating point (float atau double) di Java sesuai dengan standar 754 IEEE, secara eksplisit.
+                                  - API grafis Swing diintegrasikan ke dalam kelas inti
+                                  - JVM Sun dilengkapi dengan kompiler JIT
+                                  - Java Plug-in/Java Applet : Digunakan untuk memberikan beberapa fungsi kepada halaman-halaman web yang bersifat statis.
+                                  - Java IDL , implementasi IDL untuk interoperabilitas CORBA
+                                  - Kerangka koleksi/Java collections framework
+J2SE 1.3 : Dirilis pada 8 Mei 2000
