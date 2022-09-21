@@ -1,18 +1,13 @@
-JDK 1.0 : Versi pertama dirilis pada 23 Januari 1996
-JDK 1.1 : Dirilis pada 19 Februari 1997
-        Fitur yang ditambahkan  : - Memperbaiki/Melengkapi kelmbali ekstensif dari model AWT (Abstract Window Toolkit)
-                                  - Menambahkan Inner Classes : Digunakan untuk mendukung suatu proses yang akan dijalankan oleh kelas utamanya.
-                                  - Javabeans : Digunakan untuk mengurangi jumlah dari elemen scripting yang dapat ditemukan pada sebuah halaman Java.
-                                  - JDBC (Java Database Connectivity) : Digunakan untuk API Java untuk memanipulasi basis data.
-                                  - RMI (Remote Method Invocation) dan Serialization : Digunakan untuk dapat mengirimkan sebuah obyek sebagai parameter dari remote method dan  agar object tersebut dapat disimpan menjadi file atau dikirim melalui network.
-                                  - Refleksi yang hanya mendukung Introspeksi, tidak ada modifikasi saat runtime yang mungkin.
-                                  - Kompiler JIT (Just In Time) : Mengkompilasi bytecode Java ke dalam instruksi mesin dari CPU tertentu.
-                                  - Internasionalisasi dan dukungan Unicode yang berasal dari Taligent.
-J2SE 1.2 : Dirilis pada 8 Desember 1998
-        Fitur yang ditambahkan  : - Kata kunci strictfp : Digunakan untuk memaksa ketepatan perhitungan floating point (float atau double) di Java sesuai dengan standar 754 IEEE, secara eksplisit.
-                                  - API grafis Swing diintegrasikan ke dalam kelas inti
-                                  - JVM Sun dilengkapi dengan kompiler JIT
-                                  - Java Plug-in/Java Applet : Digunakan untuk memberikan beberapa fungsi kepada halaman-halaman web yang bersifat statis.
-                                  - Java IDL , implementasi IDL untuk interoperabilitas CORBA
-                                  - Kerangka koleksi/Java collections framework
-J2SE 1.3 : Dirilis pada 8 Mei 2000
+Nama    : Muhammad Syarif Hidayat
+NIM     : 20210040123
+Kelas   : TI21E
+Sesi 1
+
+Java SE 19 : Dirilis pada 20 September 2022
+        Fitur yang ditambahkan : - JEP 405: Record Patterns (Preview) : Tingkatkan bahasa pemrograman Java dengan pola record untuk mendekonstruksi nilai record. Pola rekaman dan pola tipe dapat disarangkan untuk mengaktifkan bentuk navigasi dan pemrosesan data yang kuat, deklaratif, dan dapat disusun.
+                                 - JEP 422: Linux/RISC-V Port : Port JDK ke Linux/RISC-V.
+                                 - JEP 424: Foreign Function & Memory API (Preview) : Memperkenalkan API dimana program Java dapat beroperasi dengan kode dan data di luar runtime Java. Dengan menjalankan fungsi asing secara efisien (yaitu, kode di luar JVM), dan dengan mengakses memori asing dengan aman (yaitu, memori yang tidak dikelola oleh JVM), API memungkinkan program Java untuk memanggil pustaka asli dan memproses data asli tanpa kerapuhan dan bahaya dari JNI.
+                                 - JEP 425: Virtual Threads (Preview) : Memperkenalkan utas virtual ke Platform Java. Utas virtual adalah utas ringan yang secara dramatis mengurangi upaya menulis, memelihara, dan mengamati aplikasi bersamaan dengan throughput tinggi.
+                                 - JEP 426: Vector API (Fourth Incubator) : Memperkenalkan API untuk mengekspresikan komputasi vektor yang dikompilasi secara andal saat runtime ke instruksi vektor optimal pada arsitektur CPU yang didukung, sehingga mencapai kinerja yang lebih unggul daripada komputasi skalar yang setara.
+                                 - JEP 427: Pattern Matching for switch (Third Preview) : Tingkatkan bahasa pemrograman Java dengan pencocokan pola untuk switch ekspresi dan pernyataan. Memperluas pencocokan pola untuk switchmemungkinkan ekspresi diuji terhadap sejumlah pola, masing-masing dengan tindakan tertentu, sehingga kueri berorientasi data yang kompleks dapat diekspresikan secara ringkas dan aman.
+                                 - JEP 428: Structured Concurrency (Incubator) : Sederhanakan pemrograman multithread dengan memperkenalkan API untuk konkurensi terstruktur . Konkurensi terstruktur memperlakukan banyak tugas yang berjalan di utas yang berbeda sebagai satu unit kerja, sehingga merampingkan penanganan dan pembatalan kesalahan, meningkatkan keandalan, dan meningkatkan kemampuan pengamatan.
